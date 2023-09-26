@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Wisata Kebudayaan Sulawesi Tengah</string>
+    <string name="name_heroes">Wisata kebudayaan</string>
+    <string name="Lorem">Lorem ipsum dolor sit</string>
+
+    <string-array name="data_name">
+        <item>Museum Sulawesi Tengah</item>
+        <item>Taman Nasional Lore Lindu</item>
+        <item>Souraja</item>
+        <item>Cagar alam morowali</item>
+        <item>Tugu Perdamaian</item>
+        <item>Danau Poso</item>
+        <item>Danau Tambing</item>
+        <item>Pulau Togean</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>museum sulawesi tengah terletak di jalan kemiri no. 23, kelurahan kamonji, kecamatan palu barat, kota palu, provinsi sulawesi tengah.
+            Museum sulawesi tengah ini memiliki koleksi berbagai benda peninggalan sejarah dan kebudayaan masyarakat sulawesi tengah.
+            Museum sulawesi tengah mulai dibangun pada 1977, dan diresmikan pada 1987. Museum sulawesi tengah memiliki koleksi sekitar 7.455 buah.
+            Dari jumlah tersebut, 5 (lima) di antaranya termasuk koleksi unggulan, yaitu kain tenun donggala, pakaian kulit kayu, patung palindo yang
+            menggambarkan nenek moyang masyarakat lembah bada, taingaja atau patung kepala kerbau yang berbuat dari perunggu, serta fosil rahang gajah
+            purba (stegodon) yang diperkirakan berumur 1,9 juta tahun.</item>
+        <item> Taman nasional lore lindu (tnll) merupakan salah satu taman nasional di indonesia yang terletak di provinsi sulawesi tengah dan salah satu
+            lokasi perlindungan hayati sulawesi. Taman nasional lore lindu terletak sekitar 60 kilometer selatan kota palu dan terletak antara 119°90’ – 120°16’bt
+            dan 1°8’ – 1°3’ls. Taman nasional lore lindu yang terletak di selatan kabupaten donggala dan bagian barat kabupaten poso menjadi daerah tangkapan air
+            bagi 3 sungai besar di sulawesi tengah, yakni sungai lariang, sungai gumbasa dan sungai palu. Taman nasional ini terbagi atas tiga kawasan,
+            yakni suaka margasatwa lore kalamanta, hutan wisata danau lindu, dan suaka margasatwa sopu gumbasa. Taman nasional lore lindu memiliki fauna dan flora
+            endemik sulawesi serta panorama alam yang menarik karena terletak di garis wallace yang merupakan wilayah peralihan antara zona asia dan australia.
+            taman nasional ini juga merupakan habitat mamalia asli terbesar di sulawesi. Anoa, babirusa, rusa, binatang hantu (tangkasi), kera tonkea,
+            kuskus marsupial dan binatang pemakan daging terbesar di sulawesi, musang sulawesi hidup di taman ini. Taman nasional lore lindu juga memiliki paling
+            sedikit 5 jenis bajing dan 31 dari 38 jenis tikusnya, termasuk jenis endemik. Sedikitnya ada 55 jenis kelelawar dan lebih dari 230 jenis burung,
+            termasuk maleo, 2 jenis enggang sulawesi yaitu julang sulawesi dan kengkareng sulawesi. Burung enggang benbuncak juga disebut rangkong atau burung
+            allo menjadi penghuni taman nasional lore lindu.  ribuan serangga aneh dan cantik dapat dilihat di sekitar taman ini, seperti kupu-kupu berwarna
+            mencolok yang terbang di sekitar taman maupun sepanjang jalan setapak dan aliran sungai</item>
+        <item>Souraja atau disebut juga Banua Oge adalah rumah adat atau rumah tradisional Indonesia yang berasal dari Kelurahan Lere, Kecamatan Palu Barat, Kota Palu, Provinsi Sulawesi Tengah.</item>
+        <item>Cagar alam morowali adalah cagar alam yang tereltak di kabupaten morowali utara, sulawesi tengah. Dalam pembagian administratif,
+            cagar alam morowali masuk dalam wilayah 3 kecamatan, yaitu kecamatan soyo jaya, kecamatan bungku utara dan kecamatan mamosalato.
+            Lahan yang ditempatinya seluas 209.400 hektare. Penetapannya sebagai cagar alam berdasarkan urat keputusan menteri kehutanan no. 237/kpts-ii/1999
+            tanggal 27 april 1999. keliling keseluruhan cagar alam ini sepanjang 265,84 kimometer. Sepanjang 36,36 km merupakan batas alam,
+            sedangkan sepanjang 229,48 km merupakan batas buatan. Jumlah pal batas yang dipasang sebanyak 3.197 buah. Dalam sistem koordinat geografi,
+            letaknya di koordinat 1° 20’ - 1° 35’ lintang selatan dan 121° 15’ 30” - 121° 38’ 0” bujur timur.
+            Beberapa jenis flora yang tumbuh di dalamnya ialah bakau, bruguiera, teruntum, tengar, coropa, paku gajah, pandan, beringin, dan cemara laut.
+            Di dalam alam ini terdapat hutan rawa dan hutan bambu yang ditumbuhi oleh palqium, sawo mentega, saw kecik, tanjung, calophyllum, panirani corymbosa,
+            haplolobus celebicus, pinang, dan rotan. Beberapa jenis fauna yang hidup di dalamnya ialah babi rusa, anoa, yaki, musang sulawesi, kuskus, rusa,
+            babi hutan, dan tikus. Selain itu terdapat pula jenis burung dan unggas seperti elang laut, itik, pecuk ular, dan cangak merah.</item>
+        <item>Tugu perdamaian "nosarara nosabatutu" adalah tugu yang terletak di kawasan perbukitan kelurahan tondo, kecamatan mantikulore, palu.
+            Dibangun pada rentang 1998-2000 sebagai simbol persatuan dan perdamaian masyarakat sulawesi tengah pasca konflik komunal yang terjadi di poso,
+            tugu ini resmi menjadi kawasan wisata pada tanggal 11  maret2014.Monumen nosarara nosabatutu merupakan bangunan berlantai tiga seluas 800 meter persegi.
+            tugu perdamaian berdiri kokoh di atas monumen ini. "nosarara nosabatutu" sendiri berasal dari bahasa kaili yang berarti "kita bersaudara, kita bersatu".
+            Semboyan ini merupakan pemersatu bagi keberagaman masyarakat sulawesi tengah yang terdiri dari berbagai suku dan agama.Selain itu,
+            di kawasan wisata ini juga terdapat gong perdamaian nusantara, atau gong perdamaian nosarara nosabatutu. Gong ini berwarna kuning, berdiameter 2 meter,
+            dan memiliki berat 180 kilogram. Menggambarkan peta indonesia di bagian tengah serta simbol perdamaian dan persaudaraan 5 agama di indonesia,
+            yakni islam, kristen, hindu, buddha, dan konghucu pada bagian lingkaran kedua. Lingkaran ketiga merupakan lambang 33 provinsi di indonesia serta
+            lingkaran paling luar mencantumkan 444 lambang dan nama kabupaten/kota di indonesia. Gong perdamaian ini diresmikan pada 11 maret 2013. Selain menjadi
+            simbol persatuan dan perdamaian masyarakat sulawesi tenggara, lokasinya di bukit tondo juga memiliki fungsi lain yakni sebagai tempat evakuasi saat
+            terjadi tsunami di palu.</item>
+        <item>Danau poso (bahasa inggris: poso lake), merupakan sebuah danau yang terletak di kabupaten poso, provinsi sulawesi tengah, indonesia; dan
+            merupakan danau terdalam ketiga di indonesia. Danau ini memiliki panjang 32 km dan lebar 16 km. Danau ini merupakan habitat dari sejumlah ikan,
+            termasuk belut anguilla marmorata yang bermigrasi antara danau dan laut, dan 11 spesies ikan endemik yang hanya terdapat di danau ini,
+            di antaranya adrianichthys, mugilogobius amadi, m. Sarasinorum, nomorhamphus celebensis, oryzias nebulosus, oryzias nigrimas, dan oryzias orthognathus,
+            yang semuanya berada dalam keadaan terancam (dalam beberapa kasus kemungkinan telah punah).Di sini juga banyak terdapat siput air tawar endemik
+            tylomelania, dan juga beberapa udang endemik caridina dan kepiting parathelphusidae (umumnya migmathelphusa, parathelphusa dan sundathelphusa.</item>
+        <item>Danau tambing (bahasa pamona: rano kalimpaa, rano tambing), adalah sebuah danau yang terletak di desa sedoa, lore utara, kabupaten poso.
+            Danau ini terletak pada ketinggian sekitar 1.700 meter dari permukaan laut. Danau tambing merupakan salah satu bagian dari wilayah
+            taman nasional lore lindu. Danau ini dikelola oleh balai besar taman nasional lore lindu dan juga pemerintah kabupaten poso sebagai bagian dari
+            wilayah kabupaten poso.Menurut balai besar taman nasional lore lindu, tiga ciri khas yang ada di lokasi danau tambing adalah alam, danau, dan burung.
+            danau tambing memiliki keanekaragaman makhluk hidup, seperti spesies burung. Dengan lebih dari 260 jenis burung, membuat tempat ini dijuluki
+            "surga burung". 30 persen di antara spesies burung tersebut adalah jenis endemik, artinya 30 persen jenis burung yang ada di tambing, hanya ada dan
+            berkembang biak di sekitar danau tambing. dua diantaranya adalah burung kipasan sulawesi (rhipidura teysmanni) dan burung kancilan ungu
+            (maroon-backed whistler). Ukuran kedua burung ini sangat kecil, tidak lebih besar dari buah salak pondoh. Di danau tambing, spesies hewan seperti
+            nuri sulawesi (tanygnathus sumatranus), kakatua (cacatua sulphurea), rangkong (buceros rhinoceros dan aceros cassidix), dan pecuk ular (anhinga rufa)
+            bisa ditemukan.</item>
+        <item>Pulau sombori adalah kawasan konservasi laut seluas 41.342 hektar. Terdapat beberapa pulau kecil di kawasan ini, sebagian di antaranya menjadi
+            tempat tinggal bagi nelayan, selebihnya adalah pulau tak berpenghuni. Pulau sombori terletak di morowali, sulawesi tengah.
+            Ketika memasuki kawasan sombori, anda akan disambut oleh tebing karang di kanan dan kiri, dengan lautan yang berombak.
+            Barulah ketika masuk semakin dalam, hamparan lautan tenang nan memukau, menanti untuk anda nikmati.
+            Kawasan sombori terdiri dari gugusan pulau karang yang menakjubkan, layaknya raja ampat. Ada yang hanya berupa karang menonjol,
+            ada pula pulau karang besar yang ditumbuhi pepohonan yang rimbun. Pepohonan ini menjadi tempat bertengger burung-burung.
+            Kepulauan sombori diperkenalkan lewat festival bajo pasakayyang pada 21 november 2015 di pulau kaleorang. Bagi anda yang menyukai snorkling
+            pulau sombori adalah pilihan yang tepat, karena pemandangan bawah laut di pulau sombori tidak kalah luar biasa dan mampu memanjakan mata anda.
+            Beraneka warna dan bentuk binatang karang, terhampar lautan. Selain itu, pulau sombori ini dikelilingi oleh pasir putih nan menawan</item>
+        <item>Kepulauan togean merupakan kepulauan yang terletak di teluk tomini, sulawesi tengah indonesia. Secara administrasi, wilayah ini berada di
+            kabupaten tojo una-una, kepulauan togean tersebar sepanjang kurang lebih 90 kilometer.Kepulauan togean merupakan hamparan pulau-pulau yang terdiri
+            6 pulau besar dan sekitar 60 pulau yang lebih kecil di sekitar teluk tomini, sulawesi.Suku yang mendiami kepulauan togea serta terdistribusi dihampir
+            seluruh pulau dikenal beberapa suku dominan yaitu suku togean itu sendiri, suku bobongko, dan suku saluan. .</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/museumsulteng</item>
+        <item>@drawable/tamannasional</item>
+        <item>@drawable/sourajaa</item>
+        <item>@drawable/cagaralammorowali</item>
+        <item>@drawable/tuguerdamaian</item>
+        <item>@drawable/danauposoo</item>
+        <item>@drawable/danautambing</item>
+        <item>@drawable/pulautogean</item>
+    </string-array>
+</resources>
